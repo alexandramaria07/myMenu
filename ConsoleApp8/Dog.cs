@@ -12,5 +12,5 @@ namespace ConsoleApp8
         {
             this.Sound = "Woof-wooof-wooof";
         }
-    }
+    } 
 }

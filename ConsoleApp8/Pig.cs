@@ -8,7 +8,7 @@ namespace ConsoleApp8
 {
     class Pig : Animal
     {
-        public Pig(string pigName)
+       public Pig(string pigName)
             : base(pigName)
         {
             this.Sound = "Oink-oink-oink";

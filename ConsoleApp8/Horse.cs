@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp8
 {
     class Horse : Animal
-    {
+    { 
         public Horse(string horseName)
             : base(horseName)
         {

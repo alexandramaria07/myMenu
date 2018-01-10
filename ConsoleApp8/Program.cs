@@ -14,7 +14,6 @@ namespace ConsoleApp8
             foreach (Animal animal in animals)
             {
                 animal.MakeSound();
-            
             }
         }
 
