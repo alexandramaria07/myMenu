@@ -8,7 +8,7 @@ namespace ConsoleApp8
 {
     class Animal
     {
-        public string Name;  
+        public string Name;   
         public string Sound;
         public void MakeSound()
         {
