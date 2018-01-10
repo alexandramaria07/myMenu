@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalHomework", "ConsoleApp8\AnimalHomework.csproj", "{D629B4F5-9C15-4880-8C73-CE1107FB4A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D629B4F5-9C15-4880-8C73-CE1107FB4A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D629B4F5-9C15-4880-8C73-CE1107FB4A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D629B4F5-9C15-4880-8C73-CE1107FB4A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D629B4F5-9C15-4880-8C73-CE1107FB4A48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {861597DF-312C-421F-BE12-E0AD926C186B}
+	EndGlobalSection
+EndGlobal
